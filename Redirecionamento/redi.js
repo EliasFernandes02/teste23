@@ -13,11 +13,11 @@ function RediPromocoes() {
 }
 
 function RediUsuarios() {
-    window.location.href = "../dashboard/Usuarios.html"
+    window.location.href = "../dashboard/usuarios.html"
 }
 
 function RediLojas() {
-    window.location.href = "../dashboard/Lojas.html"
+    window.location.href = "../dashboard/lojas.html"
 }
 function RediFuncionarios() {
     window.location.href = "../RH-System/dashboardfuncionario.html"
